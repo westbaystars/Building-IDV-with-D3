@@ -11,3 +11,6 @@ The Observatory of Economic Complexity (OEC) has changed their API since this co
 
 * The Harmonized System (/hs/...) product classification has been expanded to cover multiple system specifications. Replacing "/hs/..." with "/hs92/..." will fix this issue.
 
+*Hosting domain for OEC data has changed*
+
+The domain for the OEC data has been moved from "http://atlas.media.mit.edu" to "https://oec.world." Please use the new domain for all OEC data requests going forward.
